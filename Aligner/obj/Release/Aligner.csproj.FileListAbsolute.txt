@@ -1,0 +1,6 @@
+C:\Users\nicho\Desktop\Aligner\Aligner\bin\Release\Aligner.exe.config
+C:\Users\nicho\Desktop\Aligner\Aligner\bin\Release\Aligner.exe
+C:\Users\nicho\Desktop\Aligner\Aligner\bin\Release\Aligner.pdb
+C:\Users\nicho\Desktop\Aligner\Aligner\obj\Release\Aligner.exe
+C:\Users\nicho\Desktop\Aligner\Aligner\obj\Release\Aligner.pdb
+C:\Users\nicho\Desktop\Aligner\Aligner\obj\Release\Aligner.csprojAssemblyReference.cache
